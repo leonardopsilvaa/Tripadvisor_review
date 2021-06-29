@@ -3,7 +3,6 @@ CLUSTERIZANDO REVIEWS NO TRIPADVISOR REFERENTE À VIAGENS PARA LOCAIS TURÍSTICO
 
 Avaliações sobre destinos em 10 categorias mencionadas em todo o Leste Asiático. 
 
-Cada avaliação do viajante é mapeada como Excelente (4), Muito Boa (3), Média (2), Ruim (1) e Péssimo (0).
 
 Attribute 1 : Unique user id
 Attribute 2 : Average user feedback on art galleries
